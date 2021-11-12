@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Analizando valores del componente <CounterApp /> Validando el valor por defecto 1`] = `
+<Fragment>
+  <h1>
+    Counter App
+  </h1>
+  <h2>
+    1
+  </h2>
+  <button
+    onClick={[Function]}
+  >
+     +1 
+  </button>
+  <button
+    onClick={[Function]}
+  >
+     -1 
+  </button>
+  <button
+    className="button_reset"
+    onClick={[Function]}
+  >
+    reset
+  </button>
+</Fragment>
+`;
