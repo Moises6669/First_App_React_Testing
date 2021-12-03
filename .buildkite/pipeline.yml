@@ -1,4 +1,3 @@
 steps:
   - label: ":hammer: Example Script bash"
     command: "scripts/script.sh"
-    artifact_paths: "artifacts/*"

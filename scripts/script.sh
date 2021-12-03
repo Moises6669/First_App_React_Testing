@@ -1,3 +1,3 @@
-set -eo pipefail
+set -euo pipefail
 
 echo "hello world"
