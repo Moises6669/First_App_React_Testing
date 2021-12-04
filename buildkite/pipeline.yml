@@ -1,4 +1,2 @@
-steps:
-  - label: ":hammer: Example Script bash"
-    command: "scripts/script.sh"
-    artifact_paths: "artifacts/*"
+ - label: ":test vscode"
+   command: echo "hello world"
