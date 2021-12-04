@@ -1,3 +1,3 @@
 set -euo pipefail
-
-echo "hello world"
+hello "hello world"
+echo $hello
