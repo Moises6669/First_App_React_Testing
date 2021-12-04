@@ -1,4 +1,4 @@
 steps:
   - label: ":hammer: Example Script bash"
-    command: "scripts/main.py"
+    command: "npm run test"
     artifact_paths: "artifacts/*"
