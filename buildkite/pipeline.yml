@@ -1,3 +1,4 @@
 steps:
-  - label: "pipeline: pipeline upload"
-    command: echo "hello world"
+  - label: ":hammer: Example Script bash"
+    command: "scripts/script.sh"
+    artifact_paths: "artifacts/*"
