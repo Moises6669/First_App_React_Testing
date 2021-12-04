@@ -1,2 +1,3 @@
- - label: ":test vscode"
-   command: echo "hello world"
+steps:
+  - label: "pipeline: pipeline upload"
+    command: echo "hello world"
