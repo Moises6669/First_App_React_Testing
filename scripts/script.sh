@@ -1,3 +1,2 @@
 set -euo pipefail
-hello "hello world"
-echo $hello
+echo "Hello from bash"
